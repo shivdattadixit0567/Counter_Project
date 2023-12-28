@@ -1,0 +1,34 @@
+html,
+body {
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.value{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin: 5px;
+    padding-left: 10px;
+}
+.button-container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
